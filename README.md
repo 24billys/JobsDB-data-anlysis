@@ -24,7 +24,7 @@ The the key information include the title, date, district, job description, care
 for this analysis, however JobsDB.com allow employer not providing the salary range and the result it is not enough data for me to analysis any reliable finding through this information.
 
 ## Data Wrangling
-To ensure the dataset is clean and ready for analysis, extensive data wrangling was performed. Leveraging the power of Excel, I conducted data cleaning, filtering, and transformation tasks. This involved handling missing values, standardizing data formats, and extracting relevant information from the provided dataset. For more detail please go to the Data Wrangling file
+To ensure the dataset is clean and ready for analysis, extensive data wrangling was performed. Leveraging the power of Excel, I conducted data cleaning, filtering, and transformation tasks. This involved handling missing values, standardizing data formats, and extracting relevant information from the provided dataset. For more detail please go to the Data Wrangling file ... [For more detail](https://github.com/24billys/JobsDB-data-anlysis/tree/main/Excel%20%26%20powerBI%20project/Data%20Wrangling%20(Excel)#data-wrangling-using-excel)
 
 ## Data Visualization
 To effectively communicate our findings, I utilized Power BI, a powerful business intelligence tool, for data visualization. By leveraging its interactive features and rich visualizations, I was able to create insightful and visually appealing dashboards to present our analysis of the data professional job market.![General](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/5704a6c4-17b9-458b-ab20-5d13690a154a)
