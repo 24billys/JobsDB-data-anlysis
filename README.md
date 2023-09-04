@@ -1,4 +1,11 @@
 # Welcome to JobsDB data analysis - Data Professional job posting in JobsDB.com
+- [Introduction](https://github.com/24billys/JobsDB-data-anlysis/tree/main#introduction)
+- [Objective](https://github.com/24billys/JobsDB-data-anlysis/tree/main#objective)
+- [Dataset](https://github.com/24billys/JobsDB-data-anlysis/tree/main#dataset)
+- [Data Wrangling](https://github.com/24billys/JobsDB-data-anlysis/tree/main#data-wrangling)
+- [Data Visualization](https://github.com/24billys/JobsDB-data-anlysis/tree/main#data-visualization)
+- [Key Findings and Limitation](https://github.com/24billys/JobsDB-data-anlysis/tree/main#key-findings-and-limitation)
+- [Conclusion](https://github.com/24billys/JobsDB-data-anlysis/tree/main#conclusion)
 ## Introduction
 Data anlysis projects - JobsDB.com 
 Welcome to my data analysis project, where I delve into Hong Kong data professional using a dataset sourced from Kaggle.
