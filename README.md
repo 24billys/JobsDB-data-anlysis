@@ -27,8 +27,8 @@ for this analysis, however JobsDB.com allow employer not providing the salary ra
 To ensure the dataset is clean and ready for analysis, extensive data wrangling was performed. Leveraging the power of Excel, I conducted data cleaning, filtering, and transformation tasks. This involved handling missing values, standardizing data formats, and extracting relevant information from the provided dataset. For more detail please go to the Data Wrangling file ... [For more detail](https://github.com/24billys/JobsDB-data-anlysis/tree/main/Excel%20%26%20powerBI%20project/Data%20Wrangling%20(Excel)#data-wrangling-using-excel)
 
 ## Data Visualization
-To effectively communicate our findings, I utilized Power BI, a powerful business intelligence tool, for data visualization. By leveraging its interactive features and rich visualizations, I was able to create insightful and visually appealing dashboards to present our analysis of the data professional job market.![General](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/5704a6c4-17b9-458b-ab20-5d13690a154a)
-![Qualification and Career level](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/a493223b-1290-4b1f-b3ac-cc591ad86df2)
+To effectively communicate our findings, I utilized Power BI, a powerful business intelligence tool, for data visualization. By leveraging its interactive features and rich visualizations, I was able to create insightful and visually appealing dashboards to present our analysis of the data professional job market...[For more detail](https://github.com/24billys/JobsDB-data-anlysis/tree/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI))
+
 
 ![Job Requirement](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/84c6bab5-6bbc-4389-b922-bf1621d4216b)
 
