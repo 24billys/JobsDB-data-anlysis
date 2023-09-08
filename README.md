@@ -30,7 +30,7 @@ To ensure the dataset is clean and ready for analysis, extensive data wrangling 
 To effectively communicate our findings, I utilized Power BI, a powerful business intelligence tool, for data visualization. By leveraging its interactive features and rich visualizations, I was able to create insightful and visually appealing dashboards to present our analysis of the data professional job market...[For more detail](https://github.com/24billys/JobsDB-data-anlysis/tree/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI))
 
 
-![Job Requirement](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/84c6bab5-6bbc-4389-b922-bf1621d4216b)
+![Job Requirement](https://raw.githubusercontent.com/24billys/JobsDB-data-anlysis/d412dbbf4d22504f4667e88d8fdaffaa1bfe33a5/Job%20Requirement.PNG?token=GHSAT0AAAAAACG23FEW5O3AW3KI47TMG3ZEZH23VPA)
 
 ## Key Findings and Limitation
 Throughout the analysis, I explored a range of factors, including job titles, required skills, experience levels, and industry sectors. Some of the key findings we uncovered include:
