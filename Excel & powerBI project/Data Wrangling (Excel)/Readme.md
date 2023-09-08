@@ -25,7 +25,7 @@ Here is the dataset heading extracted on Kaggle:
 
 I saved it as data-scientist-2022-12-06-1 Before.csv and here is the column count for the dataset
 
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/eb51f6a6-96bd-472e-a36f-81ad4077298d)
+![count](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Wrangling%20(Excel)/Count.png)
 
 ## Data Cleaning
 I carefully examined the dataset to identify and handle any missing or erroneous data. Using Excel's functions and formulas, I addressed missing values, corrected inconsistencies, and resolved data formatting issues to ensure the integrity and quality of the dataset.
@@ -33,7 +33,7 @@ I carefully examined the dataset to identify and handle any missing or erroneous
 ### Duplicate data
 Since JobsDB.com is a job posting website and it allows employer repost the advertisement, so duplicate data should be deleted to reflect the real statistic
 
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/e8cc9e0e-7754-455a-bd88-0940b89882e5)
+![Duplicate](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Wrangling%20(Excel)/Duplicate.png)
 
 ### List of Data
 
@@ -57,7 +57,7 @@ Since JobsDB.com is a job posting website and it allows employer repost the adve
 
 For some specific columns, we need to get information from 'job description', I use the 'Keywords' to extract the data, here is the example:
 
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/077b5816-c42f-42f9-9b5f-ff1c912740ea)
+![Replace](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Wrangling%20(Excel)/Replacing%20values.png)
 
 
 ## Data Transformation
@@ -65,21 +65,21 @@ Excel's powerful data transformation features were utilized to derive new variab
 
 ### Job title
 I specparte the data professional into few categories, and tried to format those jobs from different job title name.
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/cf6dc02d-f3c4-4694-a5fc-729bac27a132)
+![title](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Wrangling%20(Excel)/Job%20title.png)
 
 
 ### Job Responsiblity and Job Requirement
 
 I tried to specparte the Job Responsiblities and Job Requirements from 'job description' column, It is easy for me to viualize the result between responsiblities and requirements
 
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/f75022fb-0379-4476-aedd-36694f73ecbc)
+![Responsiblity](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Wrangling%20(Excel)/Job%20Responsiblity.png)
 
 
 ### Job Function
 
 As employer might include more than one job function, I sperated the job function into mutiple columns using 'Text to column' function
 
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/bc3d78cd-2b95-4c45-9200-7b66d0b90502)
+![Function](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Wrangling%20(Excel)/Job%20Function.png)
 
 
 Throughout the data wrangling process, I maintained thorough documentation of the steps undertaken, ensuring transparency and reproducibility. The clean and transformed dataset served as the foundation for our subsequent data analysis and visualization using Power BI.
