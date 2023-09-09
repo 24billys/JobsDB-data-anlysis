@@ -65,22 +65,22 @@ I dividended into three parts, Gneral, Qualification and Career Level, Job Respo
 
 ### Job Responsibility and Requirement Tab
 #### Entry Level Jobs
-
+![1](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI)/1.Entry%20Level%20Jobs.png)
 
 #### Middle Level Jobs
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/f58cc7cc-d2ae-4e5e-8d5d-fe929b55a292)
+![2](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI)/2.Middle%20Level%20Jobs.png)
 
 #### Senior Level Jobs
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/f52608ee-e06c-41f1-afb2-0046990d16b4)
+![3](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI)/3.Senior%20Level%20Jobs.png)
 
 #### Data Analyst
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/6fa0c86c-ef5b-4e38-b4f6-759bb0c39625)
+![4](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI)/4.Data%20Analyst.png)
 
 #### Engineer
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/a05d77af-11f2-4a57-a049-88651f849716)
+![5](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI)/5.Engineer.png)
 
 #### Manager
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/191938b9-6a8a-45cb-822b-30b60982d386)
+![6](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI)/6.Manager.png)
 
 #### BI related job
-![image](https://github.com/24billys/JobsDB-data-anlysis/assets/134829529/0185fb14-7786-49a4-b4b4-733377c7eab3)
+![7](https://github.com/24billys/JobsDB-data-anlysis/blob/main/Excel%20%26%20powerBI%20project/Data%20Visiualization%20(PowerBI)/7.BI%20related%20job.png)
