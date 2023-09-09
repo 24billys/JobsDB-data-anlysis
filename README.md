@@ -1,4 +1,4 @@
-# Welcome to JobsDB data analysis - Data Professional job posting in JobsDB.com
+# Welcome to JobsDB Data Analysis - Data Professional Job Posting in JobsDB.com
 - [Introduction](https://github.com/24billys/JobsDB-data-anlysis/tree/main#introduction)
 - [Objective](https://github.com/24billys/JobsDB-data-anlysis/tree/main#objective)
 - [Dataset](https://github.com/24billys/JobsDB-data-anlysis/tree/main#dataset)
